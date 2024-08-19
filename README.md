@@ -4,7 +4,7 @@ I’m a full-stack web developer located in The Valley (Annapolis Valley, NS, Ca
 I have been working in the industry for the past 10+ years with a focus on WordPress development and using my skills/knowledge to teach other aspiring developers.
 If you have the time please take a look at some of my <a href="https://matthewfarlymn.com/projects/">projects</a>!
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<matthewfarlymn>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Tech Stack
 

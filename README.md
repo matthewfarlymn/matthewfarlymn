@@ -1,4 +1,4 @@
-# Hi, My name is <YOUR NAME>
+# Hi, My name is Matthew Farlymn
 
 I’m a full-stack web developer located in The Valley (Annapolis Valley, NS, Canada).
 

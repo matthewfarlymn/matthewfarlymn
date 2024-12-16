@@ -6,7 +6,7 @@ I have been working in the industry for the past 10+ years with a focus on WordP
 
 If you have the time please take a look at some of my <a href="https://matthewfarlymn.com/projects/">projects</a>!
 
-![matthewfarlymn's Stats](https://github-readme-stats-virid-rho.vercel.app/api?username=matthewfarlymn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transpartent&hide_border=true)
+![matthewfarlymn's Stats](https://github-readme-stats-virid-rho.vercel.app/api?username=matthewfarlymn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true)
 
 ## Tech Stack
 

@@ -1,10 +1,8 @@
 # Hi, My name is Matthew Farlymn
 
-I’m a full-stack web developer located in The Valley (Annapolis Valley, NS, Canada).
+I’m a full-stack web developer located in The Valley (NS, Canada).
 
-I have been working in the industry for the past 10+ years with a focus on WordPress development and using my skills/knowledge to teach other aspiring developers.
-
-If you have the time, please take a look at some of my <a href="https://matthewfarlymn.com/projects/">projects</a>!
+I have been working in the industry for the past 12+ years with a focus on WordPress development and using my skills/knowledge to teach other aspiring developers.
 
 ![matthewfarlymn's Stats](https://github-readme-stats-virid-rho.vercel.app/api?username=matthewfarlymn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&custom_title=GitHub%20Stats)
 

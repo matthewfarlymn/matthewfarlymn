@@ -1,8 +1,8 @@
 # Hi, My name is Matthew Farlymn
 
-I’m a full-stack web developer located in The Valley (NS, Canada).
+Designer | Developer | Dreamer
 
-I have been working in the industry for the past 12+ years with a focus on WordPress development and using my skills/knowledge to teach other aspiring developers.
+Full-stack web developer based in the Annapolis Valley, Nova Scotia, building optimized WordPress websites since 2014. Technical Lead at Trew Knowledge, WordPress core contributor, and plugin contributor. I also enjoy teaching aspiring developers.
 
 ![matthewfarlymn's Stats](https://github-readme-stats-virid-rho.vercel.app/api?username=matthewfarlymn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&custom_title=GitHub%20Stats)
 

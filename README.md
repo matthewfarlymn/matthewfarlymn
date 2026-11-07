@@ -10,8 +10,6 @@ Full-stack web developer based in the Annapolis Valley, Nova Scotia, building op
 - I’m a web developer with a strong understanding of JavaScript and PHP who seeks nothing less than perfection.
 - With a creative head on my shoulders, I can execute my ideas efficiently and effectively.
 
-
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,php,wordpress)](https://skillicons.dev)
-
 
 P.S. I love meeting new people and hearing their stories. So if you ever see me out there in this vast world of ours, give me a nudge and say hi.
